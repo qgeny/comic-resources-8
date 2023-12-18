@@ -1,0 +1,259 @@
+{
+    "name": "JOJO",
+    "type": "github",
+    "coverPath": "JOJO/cover.jpg",
+    "volumes": [
+        {
+            "name": "JOJO卷01",
+            "path": "JOJO/JOJO卷01"
+        },
+        {
+            "name": "JOJO卷02",
+            "path": "JOJO/JOJO卷02"
+        },
+        {
+            "name": "JOJO卷03",
+            "path": "JOJO/JOJO卷03"
+        },
+        {
+            "name": "JOJO卷04",
+            "path": "JOJO/JOJO卷04"
+        },
+        {
+            "name": "JOJO卷05",
+            "path": "JOJO/JOJO卷05"
+        },
+        {
+            "name": "JOJO卷06",
+            "path": "JOJO/JOJO卷06"
+        },
+        {
+            "name": "JOJO卷07",
+            "path": "JOJO/JOJO卷07"
+        },
+        {
+            "name": "JOJO卷08",
+            "path": "JOJO/JOJO卷08"
+        },
+        {
+            "name": "JOJO卷09",
+            "path": "JOJO/JOJO卷09"
+        },
+        {
+            "name": "JOJO卷10",
+            "path": "JOJO/JOJO卷10"
+        },
+        {
+            "name": "JOJO卷11",
+            "path": "JOJO/JOJO卷11"
+        },
+        {
+            "name": "JOJO卷12",
+            "path": "JOJO/JOJO卷12"
+        },
+        {
+            "name": "JOJO卷13",
+            "path": "JOJO/JOJO卷13"
+        },
+        {
+            "name": "JOJO卷14",
+            "path": "JOJO/JOJO卷14"
+        },
+        {
+            "name": "JOJO卷15",
+            "path": "JOJO/JOJO卷15"
+        },
+        {
+            "name": "JOJO卷16",
+            "path": "JOJO/JOJO卷16"
+        },
+        {
+            "name": "JOJO卷17",
+            "path": "JOJO/JOJO卷17"
+        },
+        {
+            "name": "JOJO卷18",
+            "path": "JOJO/JOJO卷18"
+        },
+        {
+            "name": "JOJO卷19",
+            "path": "JOJO/JOJO卷19"
+        },
+        {
+            "name": "JOJO卷20",
+            "path": "JOJO/JOJO卷20"
+        },
+        {
+            "name": "JOJO卷21",
+            "path": "JOJO/JOJO卷21"
+        },
+        {
+            "name": "JOJO卷22",
+            "path": "JOJO/JOJO卷22"
+        },
+        {
+            "name": "JOJO卷23",
+            "path": "JOJO/JOJO卷23"
+        },
+        {
+            "name": "JOJO卷24",
+            "path": "JOJO/JOJO卷24"
+        },
+        {
+            "name": "JOJO卷25",
+            "path": "JOJO/JOJO卷25"
+        },
+        {
+            "name": "JOJO卷26",
+            "path": "JOJO/JOJO卷26"
+        },
+        {
+            "name": "JOJO卷27",
+            "path": "JOJO/JOJO卷27"
+        },
+        {
+            "name": "JOJO卷28",
+            "path": "JOJO/JOJO卷28"
+        },
+        {
+            "name": "JOJO卷29",
+            "path": "JOJO/JOJO卷29"
+        },
+        {
+            "name": "JOJO卷30",
+            "path": "JOJO/JOJO卷30"
+        },
+        {
+            "name": "JOJO卷31",
+            "path": "JOJO/JOJO卷31"
+        },
+        {
+            "name": "JOJO卷32",
+            "path": "JOJO/JOJO卷32"
+        },
+        {
+            "name": "JOJO卷33",
+            "path": "JOJO/JOJO卷33"
+        },
+        {
+            "name": "JOJO卷34",
+            "path": "JOJO/JOJO卷34"
+        },
+        {
+            "name": "JOJO卷35",
+            "path": "JOJO/JOJO卷35"
+        },
+        {
+            "name": "JOJO卷36",
+            "path": "JOJO/JOJO卷36"
+        },
+        {
+            "name": "JOJO卷37",
+            "path": "JOJO/JOJO卷37"
+        },
+        {
+            "name": "JOJO卷38",
+            "path": "JOJO/JOJO卷38"
+        },
+        {
+            "name": "JOJO卷39",
+            "path": "JOJO/JOJO卷39"
+        },
+        {
+            "name": "JOJO卷40",
+            "path": "JOJO/JOJO卷40"
+        },
+        {
+            "name": "JOJO卷41",
+            "path": "JOJO/JOJO卷41"
+        },
+        {
+            "name": "JOJO卷42",
+            "path": "JOJO/JOJO卷42"
+        },
+        {
+            "name": "JOJO卷43",
+            "path": "JOJO/JOJO卷43"
+        },
+        {
+            "name": "JOJO卷44",
+            "path": "JOJO/JOJO卷44"
+        },
+        {
+            "name": "JOJO卷45",
+            "path": "JOJO/JOJO卷45"
+        },
+        {
+            "name": "JOJO卷46",
+            "path": "JOJO/JOJO卷46"
+        },
+        {
+            "name": "JOJO卷47",
+            "path": "JOJO/JOJO卷47"
+        },
+        {
+            "name": "JOJO卷48",
+            "path": "JOJO/JOJO卷48"
+        },
+        {
+            "name": "JOJO卷49",
+            "path": "JOJO/JOJO卷49"
+        },
+        {
+            "name": "JOJO卷50",
+            "path": "JOJO/JOJO卷50"
+        },
+        {
+            "name": "JOJO卷51",
+            "path": "JOJO/JOJO卷51"
+        },
+        {
+            "name": "JOJO卷52",
+            "path": "JOJO/JOJO卷52"
+        },
+        {
+            "name": "JOJO卷53",
+            "path": "JOJO/JOJO卷53"
+        },
+        {
+            "name": "JOJO卷54",
+            "path": "JOJO/JOJO卷54"
+        },
+        {
+            "name": "JOJO卷55",
+            "path": "JOJO/JOJO卷55"
+        },
+        {
+            "name": "JOJO卷56",
+            "path": "JOJO/JOJO卷56"
+        },
+        {
+            "name": "JOJO卷57",
+            "path": "JOJO/JOJO卷57"
+        },
+        {
+            "name": "JOJO卷58",
+            "path": "JOJO/JOJO卷58"
+        },
+        {
+            "name": "JOJO卷59",
+            "path": "JOJO/JOJO卷59"
+        },
+        {
+            "name": "JOJO卷60",
+            "path": "JOJO/JOJO卷60"
+        },
+        {
+            "name": "JOJO卷61",
+            "path": "JOJO/JOJO卷61"
+        },
+        {
+            "name": "JOJO卷62",
+            "path": "JOJO/JOJO卷62"
+        },
+        {
+            "name": "JOJO卷63",
+            "path": "JOJO/JOJO卷63"
+        }
+    ]
+}
